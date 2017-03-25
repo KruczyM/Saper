@@ -1,0 +1,11 @@
+Zasady gry
+
+Zasady gry Saper sa proste:
+
+Odkrycie miny konczy gre.
+
+Odkrycie pustego pola oznacza kontynuowanie rozgrywki.
+
+Odkrycie liczby informuje, ile min ukryto wsrod osmiu 
+sasiadujacych z nia pol - na tej podstawie trzeba wydedukowac, 
+ktore pola dookola mozna bezpiecznie kliknac.
